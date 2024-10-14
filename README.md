@@ -1,2 +1,7 @@
 # bluescrypto-blowfish-ticket
-BluesCrypto verification ticket for Blowfish
+
+### 🎫Ticket Number: 3574
+### 🌐Project Domains:
+#### https://bluescrypto.com
+#### https://stake.bluescrypto.com
+#### https://nft.bluescrypto.com
